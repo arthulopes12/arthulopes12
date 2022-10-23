@@ -11,7 +11,6 @@ Junior Back End Dev.
 
 ### Cursos 📚
 
-**Linguagens e ferramentas:**  
 <h3 align="left">Linguagens e Ferramentas:</h3>
 <div> 
 <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
