@@ -7,7 +7,7 @@
 Loading…
 
 █▒▒▒▒▒▒▒▒▒
-Junior Dev.
+Junior Back End Dev.
 
 ### Cursos 📚
 
