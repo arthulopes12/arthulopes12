@@ -9,7 +9,7 @@ Loading…
 █▒▒▒▒▒▒▒▒▒
 Junior Dev.
 
-**Cursos 📚**
+### Cursos 📚
 
 **Linguagens e ferramentas:**  
 
